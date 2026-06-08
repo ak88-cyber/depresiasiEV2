@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Depresiasi Mobil",
+  "description": "Kalkulator interaktif biaya kepemilikan dan nilai depresiasi mobil listrik, hibrida, dan bensin dari tahun ke-1 hingga ke-5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
